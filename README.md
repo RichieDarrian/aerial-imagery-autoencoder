@@ -9,3 +9,5 @@ Key work:
 - Performed hyperparameter tuning across different encoder/decoder refinement configurations, loss functions, and learning rates, with the best configuration using encoder and decoder refinement, MSE + SSIM loss, and a learning rate of 5×10⁻⁴.
 Achieved a mean test SSIM of 0.7377 with the improved autoencoder, increasing reconstruction quality by 0.2474 compared with the baseline.
 - Achieved class-level mean SSIM improvements from 0.6753 to 0.8238 for Stadium and from 0.3148 to 0.6561 for Oil Gas Field.
+
+Dataset: https://www.kaggle.com/datasets/datamunge/overheadmnist/data
